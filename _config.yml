@@ -1,0 +1,28 @@
+name: mpmccormick
+favicon: null
+layout_spectrum: 0.4446398273576051
+typography_spectrum: 0.8085927779320627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7925169370137155
+  lightness: 0.19553911592811346
+  saturation: 0.5540371343959123
+  rhythmicContrast: 0.23943244945257902
+purpose: []
